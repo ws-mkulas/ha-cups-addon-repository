@@ -1,6 +1,6 @@
 {
     "name": "CUPS Print Server",
-    "version": "1.0.0-alpha.36",
+    "version": "1.0.0-alpha.37",
     "slug": "cups",
     "description": "A CUPS print server with Avahi installed",
     "url": "https://github.com/BorisBegemann/ha-cups-addon-repository",
