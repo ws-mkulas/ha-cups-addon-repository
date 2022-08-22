@@ -1,6 +1,10 @@
 # Changelog
 
-## 1.0.0-alpha.31
+## 1.0.0-alpha.34
+
+- reenable init
+
+## 1.0.0-alpha.33
 
 - downgraded to jessie base image
 
