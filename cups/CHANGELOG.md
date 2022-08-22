@@ -2,6 +2,10 @@
 
 ## 1.0.0-alpha.31
 
+- downgraded to jessie base image
+
+## 1.0.0-alpha.31
+
 - added "init" false to fix s6 error
 ## 1.0.0-alpha.30
 
