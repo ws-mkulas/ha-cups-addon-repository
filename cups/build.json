@@ -1,9 +1,9 @@
 {
     "build_from": {
-        "armhf": "homeassistant/armhf-base-debian:latest",
-        "armv7": "homeassistant/armv7-base-debian:latest",
-        "aarch64": "homeassistant/aarch64-base-debian:latest",
-        "amd64": "debian:stable-slim",
-        "i386": "homeassistant/i386-base-debian:latest"
+        "armhf": "homeassistant/armhf-base-debian:jessie",
+        "armv7": "homeassistant/armv7-base-debian:jessie",
+        "aarch64": "homeassistant/aarch64-base-debian:jessie",
+        "amd64": "homeassistant/amd64-base-debian:jessie",
+        "i386": "homeassistant/i386-base-debian:jessie"
     }
 }
