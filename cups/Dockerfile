@@ -28,7 +28,7 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 
 COPY rootfs /
-RUN chmod +X /run.sh
+RUN ["chmod", "+x", "/run.sh"]
 EXPOSE 631
 
 CMD ["/run.sh"]
