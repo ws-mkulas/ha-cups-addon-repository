@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.0-alpha.30
+
+- Removed docker image link
+
 ## 1.0.0-alpha.25
 
 - Used documented ingress path header for rewrites, removed JS
